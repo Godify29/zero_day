@@ -10,4 +10,4 @@ __Another text here is strong created with double underscore tag__
 
 `Software code is here`
 
-~~~Here is a code block ~~~
+```Here is a code block```
